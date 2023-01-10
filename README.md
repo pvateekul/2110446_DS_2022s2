@@ -8,6 +8,8 @@
 
 [Syllabus](https://docs.google.com/document/d/1tAaRCHoeIma43MntbAcI2sHvabbDHPrNvacfyJgReDM/edit#)
 
+[Registration request](https://forms.gle/KWAVAShSeZM1rKJF7)
+
 ## Course material:
 
 ### Week1: Intro to Numpy, Pandas
