@@ -8,7 +8,7 @@
 
 [Syllabus](https://docs.google.com/document/d/1tAaRCHoeIma43MntbAcI2sHvabbDHPrNvacfyJgReDM/edit#)
 
-[Registration request](https://forms.gle/KWAVAShSeZM1rKJF7)
+Registration request (expired)
 
 ## Course material:
 
