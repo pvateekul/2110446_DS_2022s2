@@ -58,3 +58,14 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2
 
 9. Market-Basket Analysis: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week5_ml/9_Market_Basket_Intro-v2.ipynb)
 
+### Week05-06: Intro to Deep Learning
+
+1. Image classification (basic): CIFAR10 [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/Image_classification-CIFAR10-CNN.ipynb)
+
+2. Image classification (advanced): Animal [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/Image_classification-Animal-EfficientNetB0.ipynb)
+
+3. Object detection: VOCDetection [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/Object_detection-VOCDetection-FasterRCNN_MobileNet_V3.ipynb)
+
+4. Semantic segmentation: CamSeq2007 [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/Semantic_segmentation-Camseq-deeplabv3.ipynb)
+
+5. Time series Forecasting: Stock Price [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/time_series_forecasting.ipynb)
