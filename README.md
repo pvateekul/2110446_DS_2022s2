@@ -60,12 +60,12 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2
 
 ### Week05-06: Intro to Deep Learning
 
-1. Image classification (basic): CIFAR10 [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/Image_classification-CIFAR10-CNN.ipynb)
+1. Image classification (basic): CIFAR10 [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/1_Image_classification-CIFAR10-CNN.ipynb)
 
 2. Image classification (advanced): Animal [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/2_Image_classification-Animal-EfficientNetB0.ipynb)
 
-3. Object detection: VOCDetection [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/Object_detection-VOCDetection-FasterRCNN_MobileNet_V3.ipynb)
+3. Object detection: VOCDetection [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/3_Object_detection-VOCDetection-FasterRCNN_MobileNet_V3.ipynb)
 
 4. Semantic segmentation: CamSeq2007 [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/4_Semantic_segmentation_Camseq_deeplabv3_DataInGD.ipynb)
 
-5. Time series Forecasting: Stock Price [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/time_series_forecasting.ipynb)
+5. Time series Forecasting: Stock Price [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/5_Time_series_forecasting_DataInGD.ipynb)
