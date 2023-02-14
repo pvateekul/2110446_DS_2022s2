@@ -69,3 +69,5 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2
 4. Semantic segmentation: CamSeq2007 [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/4_Semantic_segmentation_Camseq_deeplabv3_DataInGD.ipynb)
 
 5. Time series Forecasting: Stock Price [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/5_Time_series_forecasting_DataInGD.ipynb)
+
+Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/HW_To_student_assignment_pytorch.ipynb)
