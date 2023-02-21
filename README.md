@@ -71,3 +71,9 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2
 5. Time series Forecasting: Stock Price [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/5_Time_series_forecasting_DataInGD.ipynb)
 
 Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week05_Intro_Deep_learning/HW_To_student_assignment_pytorch.ipynb)
+
+### Week08: Introduction to Data Science and Big Data Architecture
+
+1. Simple example [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week08_DSArchitecture_DataStorage/Simple%20Example.ipynb)
+
+Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week08_DSArchitecture_DataStorage/Redis%20Assignment.ipynb)
