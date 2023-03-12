@@ -77,3 +77,20 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2
 1. Simple example [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week08_DSArchitecture_DataStorage/Simple%20Example.ipynb)
 
 Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week08_DSArchitecture_DataStorage/Redis%20Assignment.ipynb)
+
+### Week09: Data Extraction
+
+1. Basic Webpage Scraping [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week09_Data_Extraction/1%20-%20Basic%20Webpage%20Scraping.ipynb)
+
+2. Wikipedia page data extraction [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week09_Data_Extraction/2%20-%20Wikipedia%20page%20data%20extraction.ipynb)
+Note: Do not forget to upload "simple_page.html" to your colab machine.
+
+
+3. REST API Data Extraction [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week09_Data_Extraction/3%20-%20REST%20API%20Data%20Extraction.ipynb)
+
+4. Twitter Data Extraction [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week09_Data_Extraction/4%20-%20Twitter%20Data%20Extraction.ipynb)
+Note: Do not forget to upload "twitter.yml" to your colab machine and modify the bearer token value.
+
+5. Selenium -- Note: this example cannot be run on Colab.
+
+Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week09_Data_Extraction/Assignment.ipynb)
