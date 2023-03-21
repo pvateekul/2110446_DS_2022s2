@@ -129,7 +129,7 @@ To run local server, install kafka locally or use the following [docker compose 
 
 - AVRO Consumer [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/3_AVRO/avro_consumer.ipynb)
 
-- Sample AVRO Schema [sample.avsc](https://github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/3_AVRO/sample.avsc)
+- Sample AVRO Schema [sample.avsc](https://github.com/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/3_AVRO/sample.avsc)
 
 
 #### Consumer Group Example
@@ -145,4 +145,10 @@ To run local server, install kafka locally or use the following [docker compose 
 
 #### Assignment
 
-Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/Assignment.ipynb)
+- Transaction Verifier [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/Assignment/transaction_verifier.ipynb)
+
+- [transaction.avsc](https://github.com/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/Assignment/transaction.avsc)
+
+- [submit.avsc](https://github.com/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/Assignment/submit.avsc)
+
+- [result.avsc](https://github.com/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/Assignment/result.avsc)
