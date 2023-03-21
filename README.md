@@ -97,7 +97,7 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2
 ### Week10: Data Extraction
 This section contains example for Kafka.  To test, you can use Kafka Server using IP 35.240.149.229 port 9092 or local server.
 
-To run local server, install kafka locally or use the following [docker compose file](https://raw.githubusercontent.com/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/docker-compose.yml)
+To run local server, install kafka locally or use the following [docker compose file](https://github.com/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/docker-compose.yml)
 
 #### Basic Example: 
  
