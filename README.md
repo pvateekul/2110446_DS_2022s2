@@ -145,4 +145,4 @@ To run local server, install kafka locally or use the following [docker compose 
 
 #### Assignment
 
-Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week09_Data_Extraction/Assignment.ipynb)
+Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/Assignment.ipynb)
