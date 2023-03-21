@@ -93,3 +93,56 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2
 5. Selenium -- Note: this example cannot be run on Colab.
 
 Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week09_Data_Extraction/Assignment.ipynb)
+
+### Week10: Data Extraction
+This section contains example for Kafka.  To test, you can use Kafka Server using IP 35.240.149.229 port 9092 or local server.
+
+To run local server, install kafka locally or use the following [docker compose file](https://raw.githubusercontent.com/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/docker-compose.yml)
+
+#### Basic Example: 
+ 
+- Producer [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/1_Basic/producer.ipynb)
+
+- Consumer [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/1_Basic/consumer.ipynb)
+
+- Consumer 2 [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/1_Basic/consumer2.ipynb)
+
+- Producer 2 [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/1_Basic/producer2.ipynb)
+
+
+#### Complex Example
+
+- Sensor A Producer [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/2_Complex/sensor_a_producer.ipynb)
+
+- Sensor B Producer [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/2_Complex/sensor_b_producer.ipynb)
+
+- File Writer Consumer [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/2_Complex/filewriter_consumer.ipynb)
+
+- Counter Consumer [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/2_Complex/counter_consumer.ipynb)
+
+- Notifier Consumer [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/2_Complex/notifier_consumer.ipynb)
+
+
+#### AVRO Example
+
+- AVRO Producer [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/3_AVRO/avro_producer.ipynb)
+
+- AVRO Consumer [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/3_AVRO/avro_consumer.ipynb)
+
+- Sample AVRO Schema [sample.avsc](https://github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/3_AVRO/sample.avsc)
+
+
+#### Consumer Group Example
+
+- Partition Producer [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/4_Consumer_Group/partition_producer.ipynb)
+
+- Consumer Group 1 [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/4_Consumer_Group/consumer_group_1.ipynb)
+
+- Consumer Group 2 [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/4_Consumer_Group/consumer_group_2.ipynb)
+
+- Consumer Group 3 [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/4_Consumer_Group/consumer_group_3.ipynb)
+
+
+#### Assignment
+
+Assignment: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week09_Data_Extraction/Assignment.ipynb)
