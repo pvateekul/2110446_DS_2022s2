@@ -152,3 +152,19 @@ To run local server, install kafka locally or use the following [docker compose 
 - [submit.avsc](https://github.com/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/Assignment/submit.avsc)
 
 - [result.avsc](https://github.com/pvateekul/2110446_DS_2022s2/blob/main/code/Week10_Data_Ingestion/Assignment/result.avsc)
+
+
+### Week11: Spark
+
+1. Basic Spark [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week11_Spark/1_Basic_Spark.ipynb)
+-- Note: You must upload file 'star-wars.txt' to your colab drive.
+
+2. Spark SQL [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week11_Spark/2_Spark_SQL.ipynb)
+-- Note: You must upload file 'bank-additional-full.txt' to your colab drive.
+
+3. Spark ML [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week11_Spark/3_Spark_ML.ipynb)
+-- Note: You must upload file 'bank-additional-full.txt' to your colab drive.
+
+4. Assignment [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week11_Spark/Assignment.ipynb)
+-- Note: You must upload file 'netflix-rotten-tomatoes-metacritic-imdb.txt' to your colab drive.
+
