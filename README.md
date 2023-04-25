@@ -176,5 +176,5 @@ All codes are intended to be run in an airflow environment (not on the colab).  
 
 #### FastAPI
 
-All codes are intended to be run in a python environment (not on the colab).  See [FastAPI code folder](https://github.com/pvateekul/2110446_DS_2022s2/tree/main/code/Week11a_OpsStars/FastAPI) for more details.
+All codes are intended to be run in a python environment (not on the colab).  See [FastAPI code folder](https://github.com/pvateekul/2110446_DS_2022s2/tree/main/code/Week11a_OpsStars/fastapi) for more details.
 
