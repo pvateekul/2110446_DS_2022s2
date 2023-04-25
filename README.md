@@ -178,3 +178,5 @@ All codes are intended to be run in an airflow environment (not on the colab).  
 
 All codes are intended to be run in a python environment (not on the colab).  See [FastAPI code folder](https://github.com/pvateekul/2110446_DS_2022s2/tree/main/code/Week11a_OpsStars/fastapi) for more details.
 
+### Week15 Network and Spatial Analysis
+1. Assignment visualize [code/Week15_Network_And_Spatial/netscience.gml]
