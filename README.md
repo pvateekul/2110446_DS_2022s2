@@ -168,3 +168,13 @@ To run local server, install kafka locally or use the following [docker compose 
 4. Assignment [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DS_2022s2/blob/main/code/Week11_Spark/Assignment.ipynb)
 -- Note: You must upload file 'netflix-rotten-tomatoes-metacritic-imdb.txt' to your colab drive.
 
+### Week11a: Ops Stars
+
+#### Airflow
+
+All codes are intended to be run in an airflow environment (not on the colab).  See [airflow code folder](https://github.com/pvateekul/2110446_DS_2022s2/tree/main/code/Week11a_OpsStars/airflow) for more details.
+
+#### FastAPI
+
+All codes are intended to be run in a python environment (not on the colab).  See [FastAPI code folder](https://github.com/pvateekul/2110446_DS_2022s2/tree/main/code/Week11a_OpsStars/FastAPI) for more details.
+
